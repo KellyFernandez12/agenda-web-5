@@ -1,0 +1,7 @@
+# Credenciales de conexión: nunca subir a GitHub
+conexion.php
+
+# Archivos locales/editor
+.DS_Store
+Thumbs.db
+.vscode/
